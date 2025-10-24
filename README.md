@@ -75,4 +75,16 @@ The main goal is to apply the complete **Data Science workflow** — from data c
 * How to apply **EDA** to understand real-world datasets.
 * How to build, train, and evaluate a **classification model** step-by-step.
 * Hands-on experience in applying Python libraries for Data Science.
+---
+🙌 Acknowledgments
+
+Special thanks to Eng. Ahmed Madeh for his great guidance and feedback,
+and to Kyan Academy for providing a supportive learning environment that made this project possible
+---
+## 🏁 **About**
+
+This is my **first Data Science project**, marking the official start of my journey into the world of data and machine learning.
+Through this project, I took my first real steps in exploring, analyzing, and understanding how data can be transformed into valuable insights.
+It’s more than just a project — it’s the beginning of a path I’m passionate about, where I aim to keep learning, improving, and creating smarter solutions with data.
+My **Best** Didn't Come **Yet** 💪✨
 
